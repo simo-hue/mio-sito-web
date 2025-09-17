@@ -6,7 +6,7 @@ title: "Some Insight"
 testimonials:
   - name: "GPU Hackathon"
     designation: "CINECA"
-    avatar: "/images/avatar-sm.png"
+    avatar: "/icons/uni.svg"
     content: "The **EPICURE Hackathon** brought together developers, researchers, and enthusiasts from across Europe to dive deep into the world of **GPU programming and high-performance computing**."
 
   - name: "Mountain & Fauna Lover"
@@ -21,12 +21,12 @@ testimonials:
 
   - name: "CLab"
     designation: "UniVR"
-    avatar: "/images/avatar-sm.png"
+    avatar: "/icons/book.svg"
     content: "This journey was much more than a simple project: an adventure, exciting challenge that allowed me to explore new skills, face real obstacles and create concrete ideas."
   
   - name: "Simo's Diary"
     designation: "Personal Digital Diary"
-    avatar: "/images/avatar-sm.png"
+    avatar: "/images/brand-youtube.svg"
     content: "This space was born from the desire to document my experiences in an authentic and transparent way, showing you trips, adventures and much more."
 
 # don't create a separate page
