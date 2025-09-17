@@ -22,7 +22,7 @@ features:
       - "Social Links"
       - "BIO"
     button:
-      enable: false
-      label: "Get Started Now"
-      link: "#"
+      enable: true
+      label: "Go To The BLOG"
+      link: "/blog"
 ---

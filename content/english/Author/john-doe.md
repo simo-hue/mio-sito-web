@@ -2,7 +2,6 @@
 title: Mattioli Simone
 email: mattioli.simone.10@gmail.com
 image: "/images/simo.png"
-description: this is meta description
 social:
   - name: github
     icon: fa-brands fa-github
