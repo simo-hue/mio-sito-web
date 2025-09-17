@@ -94,10 +94,19 @@ This site uses Hugo modules for extended functionality. To work with modules:
 ## Deployment
 
 The site is configured for multiple deployment platforms:
-- **GitHub Pages**: Base URL configured for `simo-hue.github.io/mio-sito-web`
+- **GitHub Pages**:
+  - Repository: `https://github.com/simo-hue/mio-sito-web`
+  - Base URL: `https://simo-hue.github.io/mio-sito-web`
+  - Workflow: `.github/workflows/hugo.yml`
+  - Requires GitHub Pages to be enabled in repository settings
 - **Netlify**: Configuration in `netlify.toml`
 - **Vercel**: Configuration in `vercel.json` with build script `vercel-build.sh`
 - **AWS Amplify**: Configuration in `amplify.yml`
+
+### GitHub Pages Setup Requirements
+1. Repository settings → Pages → Source: "GitHub Actions"
+2. Ensure repository is public or has GitHub Pro/Team for private repos
+3. Workflow will automatically deploy on push to main branch
 
 ## Content Management
 
