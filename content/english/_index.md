@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "View My CV / Resume"
-    link: "assets/docs/Resume.pdf"
+    link: "docs/Resume.pdf"
     target: "_blank"
 
 # Features

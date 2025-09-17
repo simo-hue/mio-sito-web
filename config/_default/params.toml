@@ -37,7 +37,8 @@ preloader = "" # use jpg, png, svg or gif format.
 [navigation_button]
 enable = true
 label = "Download my Personal Resume"
-link = "../docs/Resume.pdf"
+link = "docs/Resume.pdf"
+download = true
 
 # search
 # search module: https://github.com/gethugothemes/hugo-modules/tree/master/search

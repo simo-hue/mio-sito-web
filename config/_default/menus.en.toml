@@ -24,10 +24,11 @@ weight = 2
 name = "Blog"
 url = "/blog"
 
+
 [[main]]
 parent = "Blog"
-name = "Thouths"
-url = "/categories/thoughts/"
+name = "Books Readed"
+url = "/categories/books/"
 
 [[main]]
 parent = "Blog"
@@ -36,13 +37,13 @@ url = "/categories/projects/"
 
 [[main]]
 parent = "Blog"
-name = "Expriences"
-url = "/categories/experiences/"
+name = "Thougths"
+url = "/categories/thoughts/"
 
 [[main]]
 parent = "Blog"
-name = "Books Readed"
-url = "/categories/books/"
+name = "Expriences"
+url = "/categories/experiences/"
 
 #[[main]]
 #name = "Contact"

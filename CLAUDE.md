@@ -59,6 +59,15 @@ The site uses Hugo modules extensively for functionality:
 - Supports taxonomies (categories, tags)
 - Multi-author support enabled
 
+### CV/Resume Functionality
+- **Homepage "View My CV / Resume" button**: Opens PDF in new tab (`docs/Resume.pdf`)
+- **Navigation "Download my Personal Resume" button**: Downloads PDF file directly
+- PDF stored in `static/docs/Resume.pdf` for direct Hugo serving
+- Custom templates with proper URL handling:
+  - `layouts/index.html`: Custom homepage template with target="_blank" support
+  - `layouts/partials/essentials/header.html`: Custom header with download attribute
+- Use relative paths (without leading slash) for proper baseURL handling
+
 ### Styling
 - TailwindCSS as primary CSS framework
 - Custom CSS in `assets/css/custom.css`

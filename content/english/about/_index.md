@@ -1,5 +1,5 @@
 ---
-title: "Hey, I am Simone Mattioli!"
+title: "Hey There!"
 email: mattioli.simone.10@gmail.com
 meta_title: "About"
 description: "this is meta description"
@@ -27,62 +27,63 @@ draft: false
 
 ---
 
-## 👨‍💻 Chi è Simone Mattioli
+## 👨‍💻 Who is Simone Mattioli?
 
-Sono **Simone Mattioli**, nato il **28 luglio 2003** a Rovereto, in **Trentino-Alto Adige**.  
-La mia vita è guidata da una grande curiosità per la **tecnologia**, i **veicoli** e gli **sport**, unita alla voglia di esplorare il mondo e imparare continuamente.
-
----
-
-## 🎓 Formazione Accademica e Professionale
-
-- Diploma Tecnico all’**ITT Marconi Rovereto ( informatica )**
-- **Laurea Triennale In Informatica presso l’Università di Verona**.  
+I'm Simone Mattioli, born on July 28, 2003, in Rovereto, Trentino-Alto Adige.
+My life is driven by a great curiosity for technology, vehicles, and sports, combined with a desire to explore the world and continually learn.
 
 ---
 
-## 🚀 Visione
+## 🎓 Academic and Professional Education
 
-Credo nell’**apprendimento continuo** e nello sviluppo di competenze trasversali che completino il profilo tecnico.
-Proprio per questo motivo studio e mi appassiono anche a Marketing, Psicologia e tante altre tematiche che non sono strettamente legate al mio percorso di studi
-
----
-
-## 🏆 Obiettivo
-Costruire qualcosa di **mio**, diventare imprenditore e creare valore duraturo.  
-Non mi vedo come dipendente per tutta la vita: voglio lasciare un segno ed aiutare più persone possibili.
+- Technical Diploma from ITT Marconi Rovereto (Computer Science)
+- Bachelor's Degree in Computer Science from the University of Verona
 
 ---
 
-## 🌍 Passioni ed Esperienze
+## 🚀 Vision
 
-- **Viaggi e volontariato**  
-- **Content Creation**  
-- **Natura e fauna montana**  
-- **Sport e avventure outdoor**  
-
-Queste esperienze alimentano la mia creatività e il mio desiderio di crescita personale.
+I believe in continuous learning and the development of transversal skills that complement a technical profile.
+Precisely for this reason, I also study and develop a passion for Marketing, Psychology, and many other subjects that aren't strictly related to my studies.
 
 ---
 
-## Presenza Online Personale
+## 🏆 Goal
+To build something **of my own**, become an entrepreneur, and create lasting value.
 
-Vuoi conoscermi meglio? Ecco dove puoi trovarmi:
-
-- [GitHub](https://github.com/simo-hue) – progetti software e codice  
-- [LinkedIn](https://www.linkedin.com/in/simonemattioli2003/) – profilo professionale e carriera   
-- [Instagram](https://www.instagram.com/simo___one/), [YouTube](https://youtube.com/@simosdiary2003) – pensieri, passioni e viaggi  
+I don't see myself as a lifelong employee: I want to leave a mark and help as many people as possible.
 
 ---
 
-## 🔎 Esplora di più
+## 🌍 Passions and Experiences
 
-Nel mio sito troverai sezioni dedicate a:
+- **Travel and Volunteering**
+- **Content Creation**
+- **Mountain Nature and Wildlife**
+- **Sports and Outdoor Adventures**
 
-- **Thoughts** – riflessioni personali e professionali  
-- **Projects** – progetti informatici e innovativi  
-- **Experiences** – esperienze formative e di vita  
-- **Passions** – passioni e interessi  
-- **Books** – libri che mi hanno ispirato  
+These experiences fuel my creativity and my desire for personal growth.
+
+---
+
+## Personal Online Presence
+
+Want to get to know me better? Here's where you can find me:
+
+- [GitHub](https://github.com/simo-hue) – software projects and code
+- [LinkedIn](https://www.linkedin.com/in/simonemattioli2003/) – professional profile and career
+- [Instagram](https://www.instagram.com/simo___one/), [YouTube](https://youtube.com/@simosdiary2003) – thoughts, passions, and travels
+
+---
+
+## 🔎 Explore more
+
+On my website, you'll find sections dedicated to:
+
+- **Thoughts** – personal and professional reflections
+- **Projects** – IT and innovation projects
+- **Experiences** – educational and life experiences
+- **Passions** – passions and interests
+- **Books** – books that have inspired me
 
 ---
