@@ -104,8 +104,8 @@ This site uses Hugo modules for extended functionality. To work with modules:
 
 The site is configured for multiple deployment platforms:
 - **GitHub Pages**:
-  - Repository: `https://github.com/simo-hue/mio-sito-web`
-  - Base URL: `https://simo-hue.github.io/mio-sito-web`
+  - Repository: `https://github.com/simo-hue/simo-hue.github.io` (main site)
+  - Base URL: `https://simo-hue.github.io`
   - Workflow: `.github/workflows/hugo.yml`
   - Requires GitHub Pages to be enabled in repository settings
 - **Netlify**: Configuration in `netlify.toml`
