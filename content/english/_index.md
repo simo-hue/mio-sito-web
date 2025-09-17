@@ -6,8 +6,9 @@ banner:
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
+    label: "View My CV / Resume"
+    link: "assets/docs/Resume.pdf"
+    target: "_blank"
 
 # Features
 features:
