@@ -1,29 +1,33 @@
 ---
 enable: true
-title: "What Users Are Saying About Hugoplate"
-description: "Don't just take our word for it - hear from some of our satisfied users!  Check out some of our testimonials below to see what others are saying about Hugoplate."
+title: "Some Insight"
 
 # Testimonials
 testimonials:
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "GPU Hackathon"
+    designation: "CINECA"
     avatar: "/images/avatar-sm.png"
     content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "Mountain & Fauna Lover"
+    designation: "Personal Brand"
+    avatar: "/images/avatar-sm.png"
+    content: "Documenting ."
+
+  - name: "Brazil Volounteering"
+    designation: "Collegio Don Mazza"
     avatar: "/images/avatar-sm.png"
     content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "CLab"
+    designation: "UniVR"
     avatar: "/images/avatar-sm.png"
     content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
-
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  
+  - name: "Simo's Diary"
+    designation: "Personal Digital Diary"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "Life challenges, thoughts BUT also some funny moments."
 
 # don't create a separate page
 build:

@@ -3,7 +3,7 @@ title: "Hey, I am Simone Mattioli!"
 email: mattioli.simone.10@gmail.com
 meta_title: "About"
 description: "this is meta description"
-image: "/images/avatar.png"
+image: "/images/simo.png"
 social:
   - name: github
     icon: fa-brands fa-github
