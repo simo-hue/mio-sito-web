@@ -11,7 +11,7 @@ testimonials:
 
   - name: "Mountain & Fauna Lover"
     designation: "Personal Brand"
-    avatar: "/images/avatar-sm.png"
+    avatar: "/images/montagna.png"
     content: "Where I share my passion for nature, wildlife, and the captivating landscapes of mountain regions.Whether you’re a fellow nature enthusiast or just stopping by for some visual serenity."
 
   - name: "Brazil Volounteering"
