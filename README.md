@@ -8,7 +8,6 @@
 ## 🌐 [**Visit Live Website →**](https://simo-hue.github.io/mio-sito-web)
 
 ---
-
 ## 👨‍💻 About Simone Mattioli
 
 **Simone Mattioli** is a **Computer Science student** at **University of Verona**, born July 28, 2003, in **Rovereto, Trentino-Alto Adige, Italy**. This is his personal website showcasing projects, thoughts, experiences, and professional journey.
