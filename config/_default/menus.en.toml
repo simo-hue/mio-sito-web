@@ -16,21 +16,32 @@ weight = 2
 #url = "/elements"
 #weight = 3
 
-[[main]]
-weight = 4
-name = "Pages"
+#[[main]]
+#weight = 4
+#name = "Pages"
 
 [[main]]
 name = "Blog"
 url = "/blog"
 
+[[main]]
+parent = "Blog"
+name = "Thouths"
+url = "/categories/thoughts/"
+
+[[main]]
+parent = "Blog"
+name = "Projects"
+url = "/categories/projects/"
+
+[[main]]
+parent = "Blog"
+name = "Expriences"
+url = "/categories/experiences/"
+
 #[[main]]
 #name = "Contact"
 #url = "/contact"
-
-[[main]]
-name = "Projects"
-url = "/Projects"
 
 #[[main]]
 #name = "Categories"
