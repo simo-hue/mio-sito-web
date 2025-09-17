@@ -39,6 +39,11 @@ parent = "Blog"
 name = "Expriences"
 url = "/categories/experiences/"
 
+[[main]]
+parent = "Blog"
+name = "Books Readed"
+url = "/categories/books/"
+
 #[[main]]
 #name = "Contact"
 #url = "/contact"
